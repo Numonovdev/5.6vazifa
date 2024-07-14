@@ -1,0 +1,1 @@
+<!-- elementlarni id si yoqlarga id berib java scriptda chaqiriw -->
